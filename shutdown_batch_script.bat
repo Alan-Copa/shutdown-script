@@ -1,1 +1,1 @@
-powershell -NoProfile -ExecutionPolicy Bypass -File "C:\Users\Alan\Desktop\sh-script\shutdown_pwrshll_script.ps1"
+powershell -NoProfile -ExecutionPolicy Bypass -File "C:\Users\Alan\Desktop\progetti_locali\shutdown-script\shutdown_pwrshll_script.ps1"
